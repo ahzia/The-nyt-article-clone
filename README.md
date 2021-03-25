@@ -18,7 +18,7 @@
 ## Getting Started
 
 1. Clone the project 
-  `$ git clone https://github.com/ahzia/NYT-article`
+  `$ git clone https://github.com/ahzia/The-nyt-article-clone/`
 2. Then open index.html in your browser
 
 To get a local copy up and running follow these simple example steps.
@@ -39,7 +39,7 @@ Just ensure you have one or more web browsers
 
 Contributions, issues, and feature requests are welcome!
 Feel free to contribute 
-Feel free to check the [issues page](https://github.com/ahzia/NYT-article).
+Feel free to check the [issues page](https://github.com/ahzia/The-nyt-article-clone/).
 
 ## Show your support
 
