@@ -1,0 +1,17 @@
+.logo{
+    width: 200px;;
+}
+.button{
+    background-color: #567b95;
+    width: 60px;
+    display: inline;
+    padding: 8px;
+    color:white;
+    border: 1px solid black;
+    font-size:13px;
+}
+.button:hover{
+    background-color: #27485f;
+    cursor: pointer;
+    
+}
