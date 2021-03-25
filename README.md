@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://ahzia.github.io/)
+[Live Demo Link](https://ahzia.github.io/The-nyt-article-clone/)
 
 ## Getting Started
 
