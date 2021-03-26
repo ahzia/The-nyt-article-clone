@@ -151,28 +151,34 @@ p {
   height: 300px;
   border: 2px solid black;
 }
+
 .suggest2 {
   margin-top: 20px;
 }
+
 footer {
   margin-left: 150px;
   margin-right: 150px;
 }
+
 .footer-links {
   display: flex;
   width: 100%;
   justify-content: space-between;
 }
+
 .footer-links div {
   display: flex;
   flex-direction: column;
 }
+
 .footer-links2 {
   display: flex;
   justify-content: space-between;
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
 .footer-links2 a {
   font-size: 10px;
   color: gray;
