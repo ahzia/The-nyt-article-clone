@@ -29,7 +29,7 @@ Just ensure you have one or more web browsers
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@ahzia](https://github.com/ahzia)
 - Twitter: [@ZiaYousofi](https://twitter.com/ZiaYousofi)
