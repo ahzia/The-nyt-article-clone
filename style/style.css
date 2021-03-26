@@ -1,6 +1,5 @@
 body {
-  font-family: georgia, "times new roman", times, serif "Noto Sans JP",
-    sans-serif;
+  font-family: georgia, "times new roman", times, serif, "Noto Sans JP";
 }
 
 .header-logo {
@@ -104,9 +103,14 @@ p {
   font-size: 12px;
   line-height: 16px;
 }
+
 .thank {
-  margin-left: 30%;
+  width: inherit;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
+
 .container-inflation {
   width: 1000px;
   height: 780px;
@@ -142,6 +146,11 @@ p {
 .card p {
   font-size: 10px;
   color: gray;
+}
+
+.card2 p {
+  font-size: 15px;
+  line-height: 15px;
 }
 
 .inflation-line div p {
@@ -208,11 +217,6 @@ p {
   border: solid 1px grey;
   padding: 10px;
   margin-bottom: 20px;
-}
-
-.card2 p {
-  font-size: 15px;
-  line-height: 15px;
 }
 
 .card2 img {
