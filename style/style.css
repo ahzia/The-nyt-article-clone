@@ -148,12 +148,24 @@ p {
 
 .links .links-left .suggest .card {
   width: 250px;
-  height: 300px;
-  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
 }
 
 .suggest2 {
   margin-top: 20px;
+}
+
+.author {
+  font-size: 10px;
+  color: gray;
+  align-self: flex-end;
+  margin-right: 5px;
+}
+
+.card p {
+  font-size: 10px;
+  color: gray;
 }
 
 footer {
