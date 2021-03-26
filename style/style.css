@@ -36,6 +36,8 @@ header {
 .header-nav {
   display: flex;
   align-content: center;
+  width: 230px;
+  justify-content: space-between;
 }
 
 .header-button {
