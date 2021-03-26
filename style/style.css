@@ -176,6 +176,21 @@ p {
   justify-content: space-between;
 }
 
+.card2 {
+  width: 230px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  border: solid 1px grey;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.card2 img {
+  width: 100px;
+  height: 100px;
+}
+
 .links .links-left .suggest .card {
   width: 250px;
   display: flex;
