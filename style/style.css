@@ -104,7 +104,9 @@ p {
   font-size: 12px;
   line-height: 16px;
 }
-
+.thank {
+  margin-left: 30%;
+}
 .container-inflation {
   width: 1000px;
   align-items: center;
@@ -117,7 +119,7 @@ p {
   width: 1000px;
   height: 475px;
   position: absolute;
-  top: 3380px;
+  top: 3470px;
 }
 
 .inflation-line {
@@ -256,4 +258,22 @@ footer {
 .footer-links2 a {
   font-size: 10px;
   color: gray;
+}
+
+.Editors {
+  position: absolute;
+  top: 2000px;
+  right: 50px;
+  width: 280px;
+}
+.Editors img {
+  width: 100px;
+  height: 100px;
+  margin-right:10px;
+}
+.Editors div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
 }
