@@ -109,6 +109,7 @@ p {
 }
 .container-inflation {
   width: 1000px;
+  height: 780px;
   align-items: center;
   margin-left: -200px;
 }
@@ -118,8 +119,13 @@ p {
   flex-direction: column;
   width: 1000px;
   height: 475px;
-  position: absolute;
-  top: 3470px;
+  position: relative;
+  top: -480px;
+}
+
+.infliation-author {
+  position: relative;
+  top: -480px;
 }
 
 .inflation-line {
@@ -266,11 +272,13 @@ footer {
   right: 50px;
   width: 280px;
 }
+
 .Editors img {
   width: 100px;
   height: 100px;
-  margin-right:10px;
+  margin-right: 10px;
 }
+
 .Editors div {
   display: flex;
   justify-content: space-between;
