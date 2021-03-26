@@ -258,6 +258,11 @@ footer {
   flex-direction: column;
 }
 
+.footer-links div a {
+  display: flex;
+  align-items: center;
+}
+
 .footer-links2 {
   display: flex;
   justify-content: space-between;
