@@ -258,6 +258,11 @@ footer {
   flex-direction: column;
 }
 
+.footer-links2 a {
+  font-size: 10px;
+  color: gray;
+}
+
 .footer-links div a {
   display: flex;
   align-items: center;
@@ -268,11 +273,6 @@ footer {
   justify-content: space-between;
   margin-top: 20px;
   margin-bottom: 20px;
-}
-
-.footer-links2 a {
-  font-size: 10px;
-  color: gray;
 }
 
 .Editors {
