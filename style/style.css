@@ -1,5 +1,6 @@
 body {
-  font-family: "Noto Sans JP", sans-serif;
+  font-family: georgia, "times new roman", times, serif "Noto Sans JP",
+    sans-serif;
 }
 
 .header-logo {
@@ -66,6 +67,7 @@ main {
 
 h1 {
   font-style: italic;
+  font-size: 40px;
 }
 
 img {
@@ -77,8 +79,8 @@ img {
 }
 
 figcaption {
-  font-size: 12px;
-  color: gray;
+  font-size: 15px;
+  color: rgb(102, 102, 102);
 }
 
 article {
@@ -86,11 +88,19 @@ article {
 }
 
 p {
-  font-size: 16px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  color: rgb(51, 51, 51);
 }
 
 .small-text {
+  font-size: 15px;
+}
+
+.small-text2 {
   font-size: 12px;
+  line-height: 16px;
 }
 
 .container-inflation {
@@ -105,7 +115,7 @@ p {
   width: 1000px;
   height: 475px;
   position: absolute;
-  top: 2850px;
+  top: 3380px;
 }
 
 .inflation-line {
@@ -125,7 +135,8 @@ p {
 }
 
 .inflation-line div p {
-  font-size: 12px;
+  font-size: 14px;
+  line-height: 20px;
 }
 
 .cosmos-img-container {
@@ -168,6 +179,9 @@ p {
   display: flex;
   flex-direction: column;
   margin-left: 20px;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 23px;
 }
 
 .links .links-left .suggest {
@@ -184,6 +198,11 @@ p {
   border: solid 1px grey;
   padding: 10px;
   margin-bottom: 20px;
+}
+
+.card2 p {
+  font-size: 15px;
+  line-height: 15px;
 }
 
 .card2 img {
@@ -206,6 +225,7 @@ p {
   color: gray;
   align-self: flex-end;
   margin-right: 5px;
+  margin-top: 10px;
 }
 
 footer {
