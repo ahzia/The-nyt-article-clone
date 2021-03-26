@@ -119,6 +119,11 @@ p {
   height: 100%;
 }
 
+.card p {
+  font-size: 10px;
+  color: gray;
+}
+
 .inflation-line div p {
   font-size: 12px;
 }
@@ -186,11 +191,6 @@ p {
   color: gray;
   align-self: flex-end;
   margin-right: 5px;
-}
-
-.card p {
-  font-size: 10px;
-  color: gray;
 }
 
 footer {
