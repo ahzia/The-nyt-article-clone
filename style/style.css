@@ -95,7 +95,32 @@ p {
 
 .container-inflation {
   width: 1000px;
-  align-items: flex-start;
+  align-items: center;
+  margin-left: -200px;
+}
+
+.text-inflation {
+  display: flex;
+  flex-direction: column;
+  width: 1000px;
+  height: 475px;
+  position: absolute;
+  top: 2850px;
+}
+
+.inflation-line {
+  display: flex;
+  height: 158px;
+  justify-content: space-between;
+}
+
+.inflation-line div {
+  width: 230px;
+  height: 100%;
+}
+
+.inflation-line div p {
+  font-size: 12px;
 }
 
 .cosmos-img-container {
